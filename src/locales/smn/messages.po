@@ -15,7 +15,7 @@ msgstr ""
 
 #: src/containers/StatusBar.js:21
 msgid "(<0>Show all</0>)"
-msgstr ""
+msgstr "<0>Čääiti puoh</0>)"
 
 #: src/features/article/Source.stories.js:13
 msgid "<0/>"
@@ -23,27 +23,27 @@ msgstr ""
 
 #: src/features/article/Articles.js:140
 msgid "<0>Error {0}</0>"
-msgstr ""
+msgstr "<0>Feilâ {0}</0>"
 
 #: src/containers/SatniDrawer.js:45
 msgid "<0>Giellagáldu</0>"
-msgstr ""
+msgstr "<0>Kielâkäldee</0>"
 
 #: src/features/article/Articles.js:139
 msgid "<0>Loading...</0>"
-msgstr ""
+msgstr "<0>Viežžâmin...</0>"
 
 #: src/features/article/Articles.js:141
 msgid "<0>Not found</0>"
-msgstr ""
+msgstr "<0>Ij kavnum</0>"
 
 #: src/translateble_variables.js:12
 msgid "A"
-msgstr ""
+msgstr "adj."
 
 #: src/translateble_variables.js:12
 msgid "Adv"
-msgstr ""
+msgstr "Adv"
 
 #: src/translateble_variables.js:82
 #: src/translateble_variables.js:88
@@ -64,11 +64,11 @@ msgstr ""
 
 #: src/features/wantedlangs/DictChooserDialog.js:50
 msgid "Choose dictionaries"
-msgstr ""
+msgstr "Valjii sänikiirjijd"
 
 #: src/features/wantedlangs/LangChooserDialog.js:50
 msgid "Choose languages"
-msgstr ""
+msgstr "Valjii kielâid"
 
 #: src/containers/Welcome.js:123
 msgid "Click <0/> to see the inflection paradigm of words. Click <1/> to see examples of how the word is used."
